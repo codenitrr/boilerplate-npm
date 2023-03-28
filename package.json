@@ -1,6 +1,7 @@
 {
 	"author": "Bart Jenniskens",
 	"description": "Learning for free codecamp",
+	"keywords": ["testing", "coding", "playing"],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
